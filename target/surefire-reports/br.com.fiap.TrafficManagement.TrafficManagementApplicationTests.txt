@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: br.com.fiap.TrafficManagement.TrafficManagementApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.955 s -- in br.com.fiap.TrafficManagement.TrafficManagementApplicationTests
