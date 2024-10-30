@@ -33,17 +33,6 @@ O desafio visa integrar técnicas de automação de testes no projeto **SmartCit
 ## Ferramentas Sugeridas
 - Para projetos em **C#**, pode-se utilizar o **Cucumber** (Java) ou **SpecFlow** (C#), embora o uso de SpecFlow não seja obrigatório.
 
-## Estrutura do Projeto
-
-```bash
-├── /src              # Código fonte do projeto de teste
-│   ├── /features      # Arquivos Gherkin (.feature)
-│   ├── /tests         # Implementação dos testes automatizados
-│   └── /config        # Configurações e scripts
-├── Dockerfile         # Arquivo Docker (se aplicável)
-├── README.md          # Documentação do projeto (este arquivo)
-└── /docs              # Documentação e evidências da execução dos testes
-
 
 ```bash
 git clone https://github.com/seu-usuario/smartcities-teste-automatizado.git
