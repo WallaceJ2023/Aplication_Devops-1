@@ -35,7 +35,7 @@ O desafio visa integrar técnicas de automação de testes no projeto **SmartCit
 
 
 ```bash
-git clone https://github.com/seu-usuario/smartcities-teste-automatizado.git
-cd smartcities-teste-automatizado
+git clone https://github.com/leiaoliver/Aplication_Devops.git
+cd Aplication_Devops
 mvn test
 
