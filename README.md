@@ -1,4 +1,4 @@
-# SmartCities - Projeto de Testes Automatizados
+# SmartCities - Projeto de Cidades Inteligentes
 
 ## Introdução
 
